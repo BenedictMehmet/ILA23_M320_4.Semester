@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ILA23_M320_4.Semester.KW07_25.FürÜbung1</StartupObject>
+    <StartupObject>ILA23_M320_4.Semester.KW07_25.Übungen.Lösungen.Lösung1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -71,6 +71,7 @@
     <Compile Include="KW07_25\FürÜbung1.cs" />
     <Compile Include="KW07_25\RandomNumber.cs" />
     <Compile Include="KW07_25\Übungen\Übungen.cs" />
+    <Compile Include="KW11_25\Übungen\Übungen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="KW06_25\RückblickReadLine2.cs" />
   </ItemGroup>
