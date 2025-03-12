@@ -43,6 +43,6 @@ namespace ILA23_M320_4.Semester.KW11_25.Übungen
                 > 10°C und < 25°C → "Warm"
                 >= 25°C → "Heiss"
                 Die Methode InFahrenheit() berechnet Fahrenheit = (Celsius * 1.8) + 32.
-         * 
+         */ 
     }
 }
