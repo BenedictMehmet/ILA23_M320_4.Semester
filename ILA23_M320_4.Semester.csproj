@@ -82,6 +82,9 @@
     <Compile Include="KW13_25\QuizApp\Question.cs" />
     <Compile Include="KW13_25\QuizApp\Quiz.cs" />
     <Compile Include="KW15_25\Aufgaben\Aufgaben.cs" />
+    <Compile Include="KW15_25\Aufgaben\Lösung\Rezeptverwaltung\Program.cs" />
+    <Compile Include="KW15_25\Aufgaben\Lösung\Rezeptverwaltung\Recipe.cs" />
+    <Compile Include="KW15_25\Aufgaben\Lösung\Rezeptverwaltung\ReceipeBook.cs" />
     <Compile Include="KW15_25\List.cs" />
     <Compile Include="KW15_25\List2.cs" />
     <Compile Include="KW15_25\List3.cs" />
