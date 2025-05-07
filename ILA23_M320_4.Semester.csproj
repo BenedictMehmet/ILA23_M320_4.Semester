@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ILA23_M320_4.Semester.KW15_25.PredicatesLambdas</StartupObject>
+    <StartupObject>ILA23_M320_4.Semester.KW19_25.TryCatch2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -90,6 +90,16 @@
     <Compile Include="KW15_25\List3.cs" />
     <Compile Include="KW15_25\List3Main.cs" />
     <Compile Include="KW15_25\PredicatesLambdas.cs" />
+    <Compile Include="KW19_25\CallStack.cs" />
+    <Compile Include="KW19_25\Dictionary1.cs" />
+    <Compile Include="KW19_25\Dictionary2.cs" />
+    <Compile Include="KW19_25\Dictionary2Main.cs" />
+    <Compile Include="KW19_25\ExceptionTypes.cs" />
+    <Compile Include="KW19_25\Test.cs" />
+    <Compile Include="KW19_25\ToString1.cs" />
+    <Compile Include="KW19_25\ToString1Main.cs" />
+    <Compile Include="KW19_25\TryCatch.cs" />
+    <Compile Include="KW19_25\TryCatch2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="KW06_25\RückblickReadLine2.cs" />
   </ItemGroup>
