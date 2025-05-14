@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ILA23_M320_4.Semester.KW19_25.TryCatch2</StartupObject>
+    <StartupObject>ILA23_M320_4.Semester.KW20_25.Abstract</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -100,6 +100,17 @@
     <Compile Include="KW19_25\ToString1Main.cs" />
     <Compile Include="KW19_25\TryCatch.cs" />
     <Compile Include="KW19_25\TryCatch2.cs" />
+    <Compile Include="KW20_25\Abstract.cs" />
+    <Compile Include="KW20_25\In.cs" />
+    <Compile Include="KW20_25\Inheritance.cs" />
+    <Compile Include="KW20_25\Interface.cs" />
+    <Compile Include="KW20_25\Is.cs" />
+    <Compile Include="KW20_25\Out.cs" />
+    <Compile Include="KW20_25\Override.cs" />
+    <Compile Include="KW20_25\PartialClasses.cs" />
+    <Compile Include="KW20_25\Ref.cs" />
+    <Compile Include="KW20_25\Sealed2.cs" />
+    <Compile Include="KW20_25\SealedMethods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="KW06_25\RückblickReadLine2.cs" />
   </ItemGroup>
