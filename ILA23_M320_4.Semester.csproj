@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KW23_25\Aufgaben\Aufgaben.cs" />
     <Compile Include="KW06_25\MainClass.cs" />
     <Compile Include="KW06_25\MethodReturn1.cs" />
     <Compile Include="KW06_25\MethodReturn2.cs" />
