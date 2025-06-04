@@ -112,6 +112,10 @@
     <Compile Include="KW20_25\Ref.cs" />
     <Compile Include="KW20_25\Sealed2.cs" />
     <Compile Include="KW20_25\SealedMethods.cs" />
+    <Compile Include="KW23_25\ConstructorInheritance.cs" />
+    <Compile Include="KW23_25\ConstructorInheritanceMain.cs" />
+    <Compile Include="KW23_25\ConstructorInheritanceMulti.cs" />
+    <Compile Include="KW23_25\DependencyInjection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="KW06_25\RückblickReadLine2.cs" />
   </ItemGroup>
