@@ -13,12 +13,21 @@ namespace ILA23_M320_4.Semester.KW11_25.Übungen
          *     Variable in einem Text. Erstelle eine MainKlasse und eine
          *     andere Klasse und zeige mir ein Beispiel!
          * 
-         *   2. Erstelle eine Klasse Auto, die folgende Eigenschaften (Properties) hat:
-
-                Marke (z. B. "BMW", "Audi")
-                Modell (z. B. "A4", "3er")
-                Baujahr (Muss zwischen 1990 und 2025 liegen, sonst Standardwert 2000)
-                In Main() soll ein Auto-Objekt erstellt werden, und die Werte sollen mit Console.WriteLine() ausgegeben werden.
+         *   2. Erstelle ein Programm in C#, das eine Klasse Auto definiert. Diese Klasse soll die wichtigsten Eigenschaften eines Autos abbilden und bestimmte Bedingungen für das Baujahr überprüfen. Danach soll das Programm ein oder mehrere Auto-Objekte erstellen und deren Informationen auf der Konsole ausgeben.
+​
+​
+Erstelle eine Klasse Auto mit folgenden Eigenschaften (Properties):
+Marke (z. B. "BMW", "Audi")
+Modell (z. B. "A4", "3er")
+Baujahr
+Das Baujahr muss zwischen 1990 und 2025 liegen.
+Falls ein ungültiges Baujahr übergeben wird, soll automatisch der Standardwert 2020 verwendet werden.
+Konstruiere einen passenden Konstruktor, der alle drei Eigenschaften (Marke, Modell, Baujahr) übernimmt.
+Erstelle eine Methode AutoInfos(), welche die Fahrzeugdaten mit Console.WriteLine() in folgendem Format ausgibt:
+Marke: Audi / Modell: A3 / Baujahr: 2020
+Erstelle in der Main()-Methode mindestens zwei Auto-Objekte mit verschiedenen Werten.
+Eines davon soll ein ungültiges Baujahr enthalten (z. B. 1950), um zu testen, ob der Standardwert 2020 korrekt gesetzt wird.
+Gib die Informationen beider Autos mithilfe der Methode AutoInfos() auf der Konsole aus.
          * 
          * 
          * 
@@ -43,6 +52,6 @@ namespace ILA23_M320_4.Semester.KW11_25.Übungen
                 > 10°C und < 25°C → "Warm"
                 >= 25°C → "Heiss"
                 Die Methode InFahrenheit() berechnet Fahrenheit = (Celsius * 1.8) + 32.
-         */ 
+         */
     }
 }

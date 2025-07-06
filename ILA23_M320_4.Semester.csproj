@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ILA23_M320_4.Semester.KW20_25.Out</StartupObject>
+    <StartupObject>ILA23_M320_4.Semester.KW11_25.Übungen.Lösungen.Lösung2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KW11_25\Übungen\Lösungen\Lösung2.cs" />
     <Compile Include="KW23_25\Aufgaben\Aufgaben.cs" />
     <Compile Include="KW06_25\MainClass.cs" />
     <Compile Include="KW06_25\MethodReturn1.cs" />
